@@ -12,11 +12,11 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          {"Hat.sh"}
+          {"Encrepteh,a hat.sh instance"}
           {" - "}
           {t("sub_title")}
         </title>
-        <link rel="icon" href="encripteh.png" />
+        <link rel="icon" href="encrepteh.png" />
 
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
