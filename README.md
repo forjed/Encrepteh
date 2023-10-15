@@ -3,7 +3,7 @@
  <img src="https://i.imgur.com/8b0GE2B.png" width="180"></a>
 </p>
 
-<a href="https://hat.sh" style="color:#000"><h3 align="center">hat.sh</h3></a>
+<a href="https://hat.sh" style="color:#000"><h3 align="center">Encrepteh, A hat.sh instance</h3></a>
 
 <div align="center">
 
