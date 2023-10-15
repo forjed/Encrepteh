@@ -34,7 +34,7 @@ export default function NavAppBar() {
           <Toolbar>
             <Typography variant="h6" className={classes.logo}>
               <a href="/">
-                <img src="ssets/images/encrepteh.png" alt="logo" width="40" />
+                <img src="assets/images/encrepteh.png" alt="logo" width="40" />
               </a>
               <VersionBadge />
             </Typography>
